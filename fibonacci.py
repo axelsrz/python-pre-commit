@@ -1,7 +1,5 @@
 def helloWorld():
     print("HelloWorld")
-
-
 def fibonacci(n):
     if n < 0:
         print("Incorrect input")
