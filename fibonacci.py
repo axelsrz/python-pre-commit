@@ -5,7 +5,7 @@ def helloWorld():
 def fibonacci(n):
     if n < 0:
         print("Incorrect input")
-    elif n == 1:
+    elif n ==1:
         return 0
     elif n == 2:
         return 1
