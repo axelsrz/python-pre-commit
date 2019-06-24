@@ -51,4 +51,8 @@ However, after we commit it (and push), the [Javascript](https://github.com/Alia
 The message the commit produces recognizes the lint errors first and then fixes them.
 ![imagen](https://user-images.githubusercontent.com/22912283/60032833-bdbefe80-967d-11e9-853c-f1a6f86a7f8d.png)
 
-
+## Usage
+To test this:
+1. Clone the repo
+2. Run build.cmd
+3. Start coding!
