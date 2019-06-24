@@ -3,8 +3,8 @@ function fibonacci(num){
   
     while (num >= 0){
       temp = a;
-      a = a + b;
-      b = temp;
+      a=a+b; 
+      b=temp;
       num--;
     }
   
