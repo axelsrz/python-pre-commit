@@ -1,12 +1,13 @@
+function helloWorld(){
+  return "Hello world!"
+}
 function fibonacci(num){
     var a=1, b=0, temp;
-  
     while (num >= 0){
-      temp = a;
+      temp=a;
       a=a+b; 
       b=temp;
       num--;
     }
-  
     return b;
   }
